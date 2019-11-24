@@ -11,7 +11,7 @@ the original site from which I scraped the data is: [ntl wall of fame](http://te
 ## Getting started
 
 Simply click this link [NTL: Facts and insights](https://public.tableau.com/profile/ahmed.eweed#!/vizhome/Book1_15741837906850/NTLQuickAnalysisandInsights)  
-and explre the story page by page  
+and explore the story page by page  
 any questions are welcomed at my facebook account mentioned at the end of the story
 
 ## Prerequisites
